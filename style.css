@@ -81,6 +81,18 @@ font-weight: 700;
 .descricao__texto {
     color: var(--cinza-segundario);
 }
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 2em;
+} 
+
+.dispositivos__lista {
+    display: flex;
+}
 
 
 
